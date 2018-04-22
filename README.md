@@ -28,12 +28,12 @@ yarn start
 
 You can also get a [live demo on Code Sandbox][code-demo].
 
-[![Edit l29rokm9rm](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/l29rokm9rm?hidenavigation=1&view=preview)
+[![Edit react-token-input-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/gladchinda/react-token-input-demo/tree/master/?hidenavigation=1&view=preview)
 
 
 [react-docs]: https://reactjs.org/docs/
 [react]: https://reactjs.org/
-[code-demo]: https://codesandbox.io/s/l29rokm9rm
+[code-demo]: https://codesandbox.io/s/github/gladchinda/react-token-input-demo/tree/master/?hidenavigation=1&view=preview
 [node]: https://nodejs.org/en/
 [npm]: https://npmjs.com/
 [yarn]: https://yarnpkg.com/
