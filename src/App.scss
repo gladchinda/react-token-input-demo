@@ -1,0 +1,39 @@
+$primary: #007bff;
+$border-color: darken(#dee2e6, 10%);
+.token-input-container {
+    display: inline-block;
+    &:nth-of-type(3n+3)+&:before {
+        content: '\2013';
+        display: inline-block;
+        padding: 0 5px;
+        color: #6c757d;
+        font-weight: bold;
+    }
+}
+
+.token-input-field {
+    max-width: 45px;
+    padding: 5px;
+    font-size: 1.5rem;
+    box-shadow: none !important;
+    outline: 0 !important;
+    margin: 0 2px;
+    border: 1px solid $border-color;
+    &:focus {
+        border-color: $primary !important;
+    }
+}
+
+.token-hint {
+    font-size: 0.8rem;
+    line-height: 1.4;
+    margin: 10px auto;
+    max-width: 320px;
+    color: #999;
+}
+
+button.btn {
+    letter-spacing: 1px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
